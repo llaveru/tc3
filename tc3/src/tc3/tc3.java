@@ -30,7 +30,7 @@ public class tc3 {
 		extra.add("x0x0");
 		extra.add("00xx");
 		
-		
+		System.out.println("cambio añadido desde pc asac");
 		
 		//convertirListadoToMatriz(extra);
 		dibujarMatriz(convertirListadoToMatriz(extra));
